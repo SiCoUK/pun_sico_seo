@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "ext-1.0.dtd">
+
+<!--
+/**
+ * SiCo Footer
+ *
+ * @copyright Copyright (C) 2011 Simon Corless
+ * @package sico_footer
+ */
+-->
+<extension engine="1.0">
+    <id>sico_seo</id>
+    <title>SiCo SEO</title>
+    <version>0.0.1</version>
+    <description>Adds various SEO features to your forum, including showing forum descriptions at the top of forums.</description>
+    <author>Simon Corless</author>
+    <minversion>1.4</minversion>
+    <maxtestedon>1.4</maxtestedon>
+
+    <install><![CDATA[
+
+    ]]></install>
+
+    <uninstall><![CDATA[
+
+    ]]></uninstall>
+
+    <hooks>
+
+    </hooks>
+</extension>
