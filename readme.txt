@@ -4,7 +4,7 @@ SiCo SEO
 
 Add additional features to the forum for SEO and usability.
 
-- Add the/a forum description tot he top of the forum pages
+- Add the/a forum description to the top of the forum pages
 - Allow a notice to be added to each forum individually
 - Allow additional meta tags for each forum
 
